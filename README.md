@@ -1,8 +1,21 @@
 # TheLongDay
+---
+1인개발
 
-ThelongDark를 모티브로한 생존 서바이벌 게임입니다. 
-시간이 지남에 따라 플레이어에게 디버프를 부여하고 적을 출현 시키거나 밤낮의 변화에 따라 패널티를 받게 됩니다.  플레이어는 맵을 돌아다니며 자원을 채집하거나 크래프팅 시스템을 이용하여 여러가지 기물들을 만들어 생존하고 빌드 시스템이나 사냥을 통하여 몇가지 조건을 수행하여 퀘스트를 완료하는 것이 목표입니다.
+# 프로젝트소개
+---
+Unreal엔진을 기반으로 하여 만든 3D 서바이벌게임으로 포트폴리오용으로 제작되었습니다.
 
-개발기간 : 3달 (2025.10~2026.01)
-사용언어 : c++
-사용엔진 : Unreal
+
+# 프로젝트개요
+---
+* 개발기간 : 3달
+* 개발도구 : Unreal
+* 개발언어 : c++
+
+# 영상및 기술서
+---
+* 영상링크 : <https://youtu.be/m7Z5L2lO7u4>
+* 기술서 : <[https://docs.google.com/document/d/1cQpJ330aQBATAMvLiNWnUzZyx07KbFMBvY76BtO1jJE/edit](https://drive.google.com/file/d/1UyBjlreq03VkTfTorQsty5Y1qTlWCHxS/view?usp=sharing
+)>
+* 데모파일 : <https://drive.google.com/file/d/1PdwUnUlqWpnk-lRiDP2lUz5rbL_ODdN3/view?usp=sharing>
