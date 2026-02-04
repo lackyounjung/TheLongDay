@@ -16,6 +16,7 @@ Unreal엔진을 기반으로 하여 만든 3D 서바이벌게임으로 포트폴
 # 영상및 기술서
 ---
 * 영상링크 : <https://youtu.be/m7Z5L2lO7u4>
+* 포트폴리오 : <https://drive.google.com/file/d/167p4irH3jeVI8A5JI67x9wjOOARABcJ9/view?usp=sharing>
 * 기술서 : <[https://docs.google.com/document/d/1cQpJ330aQBATAMvLiNWnUzZyx07KbFMBvY76BtO1jJE/edit](https://drive.google.com/file/d/1UyBjlreq03VkTfTorQsty5Y1qTlWCHxS/view?usp=sharing
 )>
 * 데모파일 : <https://drive.google.com/file/d/1PdwUnUlqWpnk-lRiDP2lUz5rbL_ODdN3/view?usp=sharing>
